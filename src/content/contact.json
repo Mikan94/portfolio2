@@ -1,0 +1,16 @@
+{
+  "Deutsch": {
+    "title": "Kontakt",
+    "text1": "Gefällt dir was du siehst?",
+    "text2": "Dann lassen uns reden und gemeinsam digitale Projekte kreiieren",
+    "btnMail": "Brieftaube versenden",
+    "btnChat": "Flotten Schnack"
+  },
+  "English": {
+    "title": "Contact",
+    "text1": "You like what you see?",
+    "text2": "Then let's talk and create digital projects together",
+    "btnMail": "Send carrier pigeon",
+    "btnChat": "Have a chat"
+  }
+}

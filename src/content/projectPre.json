@@ -1,0 +1,40 @@
+{
+  "Deutsch": {
+    "head": "Projekte",
+    "btn": "Mehr erfahren",
+    "SmartDress": {
+      "title": "SmartDress",
+      "subtitle": "Bachelor Thesis",
+      "description": "Dein persönlicher Outfit-Berater, mit dem du immer weißt, was du heute anziehen kannst"
+    },
+    "Storyline": {
+      "title": "Storyline",
+      "subtitle": "Forschungsprojekt (Studium)",
+      "description": "Leitfaden für Schüler zur spielerischen Prävention von Fake News und Cybermobbing in sozialen Netzwerken"
+    },
+    "Nazzle": {
+      "title": "Nazzle",
+      "subtitle": "Modul-Projekt (Studium)",
+      "description": "Spielerisch die Natur erkunden und spannende Rätsel mit Augmented Reality lösen"
+    }
+  },
+  "English": {
+    "head": "Projects",
+    "btn": "Know more",
+    "SmartDress": {
+      "title": "SmartDress",
+      "subtitle": "Bachelor Thesis",
+      "description": "Your personal outfit advisor with whom you always know what to wear today"
+    },
+    "Storyline": {
+      "title": "Storyline",
+      "subtitle": "Foundation project (Study)",
+      "description": "Companion for students for the playful prevention of fake news and cyber bullying in social networks"
+    },
+    "Nazzle": {
+      "title": "Nazzle",
+      "subtitle": "Project (Study)",
+      "description": "Playfully explore nature and solve exciting puzzles with augmented reality"
+    }
+  }
+}

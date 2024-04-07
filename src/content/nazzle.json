@@ -1,0 +1,159 @@
+{
+  "Deutsch": {
+    "hero": {
+      "text": "Spielerisch die Natur erkunden und spannende Rätsel mit Augmented Reality lösen"
+    },
+    "overview": {
+      "title": "Overview",
+      "description": "Nazzle ist eine spielerische Anwendung für Kinder, die in der Natur erlebt wird. Sie ist so konzipiert, dass sie Kinder spielerisch in die Natur lockt. Dabei befinden sie sich in einem sicheren Stadtpark und können in diesem Rätsel lösen. Das Lösen eines Rätsels erfolgt durch die Interaktion mit der Umgebung und der angezeigten Objekte auf dem Smartphone-Bildschirm. Um beide Interaktionselemente zu kombinieren, wird die Augmented-Reality-Technologie eingesetzt."
+    },
+    "projectD": {
+      "title1": "Projektart",
+      "title2": "Zeit",
+      "title3": "Team",
+      "title4": "Meine Rolle",
+      "title5": "Was ich gemacht habe",
+      "description1": "Fiktives Hochschulprojekt des Moduls Mobile Interaktion",
+      "description2": "8 Wochen (2019)",
+      "description3": "Team aus 4 Studenten des Studiengangs Mensch-Maschine-Interaktion",
+      "description51": "Interviews",
+      "description52": "Persona",
+      "description53": "Marktanalyse",
+      "description54": "Konzept",
+      "description55": "Game Design",
+      "description56": "Prototype"
+    },
+    "ps": {
+      "question": "Wie könnten wir junge Menschen dazu bringen, mehr Zeit in der Natur zu verbringen?",
+      "title1": "Problem",
+      "text1": "Früher haben die Kinder immer draußen gespielt und nur bei schlechtem Wetter drinnen gespielt. Heute sieht das ganz anders aus. In erster Linie bleiben die Kinder drinnen und sitzen vor ihren Spielkonsolen.",
+      "title2": "Lösung",
+      "text2": "Wir haben eine mobile Anwendung entwickelt, in der die Benutzer Rätsel in der Natur lösen. Wir haben die Technologie Augmented Reality verwendet, um es für die Kinder attraktiver zu machen. Die Technologie ermöglicht es den Benutzern, Rätsel auf ihrem Smartphone-Display zu lösen, das auch mit der realen Umgebung interagiert. Dazu sehen sie das Rätsel auf dem verwendeten Smartphone-Bildschirm und können darauf mit Elementen des Spiels interagieren.",
+      "btn": "Direkt zur Lösung"
+    },
+    "research": {
+      "title": "Forschung",
+      "subtitle1": "Nutzerforschung",
+      "text1": "Zu Beginn haben wir uns gefragt: Was sind die Merkmale von Menschen, die viel Zeit mit Smartphone- oder Computerspielen verbringen? Aus dem Grund haben wir eine Nutzerforschung durchgeführt. Anhand dieser Informationen führten wir Interviews mit Kinder der Zielgruppe durch. Außerdem haben wir uns den Markt angeschaut und wie andere Spiele mit die Technologie Augmented Reality einsetzen.",
+      "subtitle2": "Persona",
+      "text2": "Nach der Nutzerforschung und einigen Interviews haben wir Leon, unsere Persona, erstellt. Er ist 14 Jahre alt und spielt viele Spiele. Leon ist sportlich und spielt Fußball. Manchmal spielt er lieber Fußball auf der Konsole. Er mag die Verbindung mit seinen Freunden, wenn sie Fifa spielen.",
+      "subtitle3": "Marktanalyse",
+      "text3": "Die Marktanalyse zeigt, dass viele Anwendungen die Technologie schon gut nutzen. Dennoch zeigte die Analyse, dass die dargestellten virtuellen Objekte oft keinen direkten Bezug zum Kontext hatten. Es war daher wichtig, dass die virtuellen Objekte in das Spiel integriert wurden."
+    },
+    "solution": {
+      "title": "Erstellen der Lösung",
+      "subtitle1": "Konzept",
+      "text1": "Mit den Informationen aus dem Forschungsprozess wurde ein Spiel für Smartphones entwickelt, in dem der Benutzer versucht, Rätsel jeglicher Art mit virtuellen Objekten im Freien zu lösen. Die integrierte Technologie Augmented Reality in Kombination mit dem Spielkonzept schafft ein immersives und einzigartiges Spielerlebnis. Besonderes Augenmerk wurde dabei auf die Integration der virtuellen Objekte in das Spiel gelegt, wo sie ein wesentlicher Bestandteil des Rätsels sind. Darüber hinaus fördern die Rätsel eine fantasievolle, kreative und lösungsorientierte Denkweise.",
+      "subtitle2": "Skizzen",
+      "text2": "Um erste Ideen zum Konzept der Anwendung schnell zu erfassen, habe ich sie auf Papier festgehalten. Danach haben wir zwei Gesprächsrunden im Team durchlaufen und sie diskutiert. Das Ergebnis war, dass die Darstellung mit einem cartoonartigen Charakter für die Kinder am besten geeignet sein könnte, um eine vertrauensvolle und freundliche Basis zu entwickeln. Der grobe Entwurf des Interaktionskonzepts erwies sich für uns als Team als intuitiv und wurde später weiter entwickelt.",
+      "subtitle3": "User Flow",
+      "text3": "Um möglichst viele Interaktionspunkte des Benutzers zu erfassen, entwickelte ich als Grundlage einen User Flow der Anwendung. Es war mir wichtig, dass der Fluss intuitiv ist und keine Sackgasse hat.",
+      "subtitle4": "Wireframes",
+      "text4": "Die Wireframes dienten auch als Vorarbeit für den endgültigen Prototyp. Diese wurden im Team nochmals diskutiert, um die Formulierungen kindgerecht zu gestalten und die Logik der Anwendung zu überprüfen.",
+      "subtitle5": "Styleguide",
+      "subsub5": "Definition des Spielname",
+      "text5": "Tatsächlich ist uns der Name der Anwendung sehr schnell eingefallen. Er ist eine Kombination aus den Wörtern 'Natur' und 'Puzzle' und soll den Aspekt widerspiegeln, dass es sich um ein Outdoor-Spiel handelt, bei dem es um das Lösen von Puzzles geht.",
+      "subsub6": "Auswahl der Farben",
+      "text6": "Aufgrund der Tatsache, dass die Anwendung hauptsächlich von Kindern gespielt wird, haben wir uns für leicht auffällige Farben entschieden.",
+      "subsub7": "Die richtige Schriftart",
+      "text7": "Renogare ist eine elegante geometrische Schrift, die den Einsatz technologischer Innovationen widerspiegelt. Die gerade und abgerundete Form der Buchstaben sorgt für hohe Lesbarkeit auf dem Smartphone-Display auch an sonnigen Tagen.",
+      "subtitle8": "Das finale Produkt",
+      "subsub8": "Spielcharacter",
+      "text8": "Von Anfang an begleitet eine kugelförmige Fantasiefigur den Benutzer durch die verschiedenen Abläufe, die der Benutzer durch Eingabe eines Namens personalisieren kann. Die Figur dient dem Spieler als Einstiegshilfe und unterstützt ihn bei der Navigation oder auch innerhalb eines Rätsels.",
+      "subsub9": "Onboarding",
+      "text9": "Hier wird dem Spieler ein Hinweis angezeigt, dass das Spiel nur in bestimmten Bereichen gespielt werden kann. Dazu wird die Erlaubnis zur Verwendung des GPS-Sensors und der Kamera, die für die Nutzung der Anwendung unerlässlich sind, eingeholt.",
+      "subsub10": "Navigation",
+      "text10": "In das Spiel ist ein eigenes Navigationssystem integriert, das den Spieler zu einem Gelände führt, auf dem das Spiel gefahrlos gespielt werden kann. Bei der Entwicklung des Konzepts wurde deutlich, dass es wichtig ist, die Spieler zu schützen und ihnen nicht die Möglichkeit zu bieten, an gefährlichen Orten zu spielen.",
+      "subsub11": "Menü",
+      "text11": "Sobald der Benutzer ein sicheres Terrain erreicht hat, werden im Menüfenster alle verfügbaren Puzzles angezeigt. Diese werden in der Anzeige unterschieden in: freigeschaltet noch nicht gespielt, freigeschaltet und gespielt oder noch nicht freigeschaltet. Durch Anklicken des gewünschten Rätsels und anschließendem 'Spiel starten' wird der Spieler direkt in das Rätsel geführt.",
+      "subsub12": "In-Game",
+      "text12": "Grundsätzlich sind die Rätsel so aufgebaut, dass die Augmented Reality-Technologie Objekte in der Umgebung anzeigt, die bei der Lösung des Rätsels helfen. Der Benutzer hat die Möglichkeit, verschiedene Objekte zu kombinieren und ein neues zu erstellen oder ein Objekt direkt als Lösung für das Rätsel zu verwenden. Wenn der Benutzer keine Idee hat, wie er das Rätsel lösen kann, erscheint die Figur aus dem Onboarding als Unterstützung, indem er auf das Fragezeichen rechts klickt."
+    },
+    "contact": {
+      "title": "Kontakt",
+    "text1": "Gefällt dir was du siehst?",
+    "text2": "Dann lassen uns reden und gemeinsam digitale Projekte kreiieren",
+    "btnMail": "Brieftaube versenden",
+    "btnChat": "Flotten Schnack"
+    }
+  },
+
+  "English": {
+    "hero": {
+      "text": "Playfully explore nature and solve exciting puzzles with augmented reality"
+    },
+    "overview": {
+      "title": "Overview",
+      "description": "Nazzle is a playful application for children, which is experienced in nature. It is designed to lure children into nature through play. In doing so, they find themselves in a safe city park and can solve puzzles in it. Solving a puzzle is done with the interaction of the environment and the displayed objects on the smartphone screen. Augmented reality technology is used to combine both interaction elements."
+    },
+    "projectD": {
+      "title1": "Project type",
+      "title2": "Time",
+      "title3": "Team",
+      "title4": "My Role",
+      "title5": "What I've done",
+      "description1": "Fictitious university project of the course Mobile Interaction",
+      "description2": "8 weeks (2019)",
+      "description3": "Team of 4 Human-machine-Interaction Students",
+      "description51": "Interviews",
+      "description52": "Persona",
+      "description53": "Market analysis",
+      "description54": "Concept",
+      "description55": "Game design",
+      "description56": "Prototype"
+    },
+    "ps": {
+      "question": "How might we get young people to spend more time in nature?",
+      "title1": "Problem",
+      "text1": "In the past, children always played outside and only played indoors when there was bad weather outside. Today, things look very different. Primarily, children stay indoors and sit in front of their game consoles.",
+      "title2": "Solution",
+      "text2": "We developed a mobile application in which the users have to solve puzzles in nature. We've used the technology augmented reality to make it more attractive for the kids. The technology allows users to solve puzzles on their smartphone displays which also interacts with the real enviroment. To do this, they see the puzzle on the smartphone screen used and can interact with elements of the game on it.",
+      "btn": "Jump to solution"
+    },
+    "research": {
+      "title": "Research",
+      "subtitle1": "User research",
+      "text1": "At the beginning we asked us: What are the characteristics of people who spend a lot of time playing smartphone or computer games? Therefore we have made a user research and after that some interviews with some kids of the target group. Also we looked at the market and how other games play with the technology augmented reality.",
+      "subtitle2": "Persona",
+      "text2": "After the user reasearch and some interviews we created Leon our Persona. This is Leon our Persona. He is 14 years old and played a lot of games. Leon is sporty and play soccer. Sometimes he prefer playing soccer on the console. He likes the connection with his friends when they are playing fifa.",
+      "subtitle3": "Market analysis",
+      "text3": "The market analysis shows that many applications make good use of the technology. Nevertheless, the analysis showed that the virtual objects displayed often had no direct connection to the context. It was therefore important to ensure that the virtual objects were significantly integrated into the game."
+    },
+    "solution": {
+      "title": "Creating a solution",
+      "subtitle1": "Concept",
+      "text1": "The market analysis shows that many applications make good use of the technology. Nevertheless, the analysis showed that the virtual objects displayed often had no direct connection to the context. It was therefore important to ensure that the virtual objects were significantly integrated into the game.",
+      "subtitle2": "Sketches",
+      "text2": "To quickly capture initial ideas regarding the concept of the application, I drew them down on paper. After that, we went through two rounds of discussion as a team and discussed them. The result was that the presentation with a cartoon-like character could be most suitable for the children to develop a trustworthy and friendly basis. The rough draft of the interaction concept proved intuitive for us as a team and was further developed later on.",
+      "subtitle3": "User Flow",
+      "text3": "In order to capture as many interaction points of the user as possible, I developed a user flow of the application as a basis. It was important to me that the flow is intuitive and has no dead end.",
+      "subtitle4": "Wireframes",
+      "text4": "The wireframes also served as preliminary work for the final prototype. These were discussed again in the team to make wording suitable for children and to check the logic of the application.",
+      "subtitle5": "Styleguide",
+      "subsub5": "Name definition",
+      "text5": "In fact, the name of the application came to us very quickly. It is a combination of the word 'nature' and 'puzzle'.This is to reflect the aspect that this is an outdoor game and it's about solving puzzles.",
+      "subsub6": "Choosing colors",
+      "text6": "Due to the fact that the application is primarily played by children, we decided to use slightly eye-catching colors.",
+      "subsub7": "The right font",
+      "text7": "Renogare is an elegant geometric font that reflects the use of technological innovation. The straight and rounded shape of the letters ensures high legibility on the smartphone display even on sunny days.",
+      "subtitle8": "Final product",
+      "subsub8": "Game character",
+      "text8": "From the beginning, a spherical fantasy figure accompanies the user through the various processes, which the user can personalize by entering a name. The figure is used to help the player get started and to assist in navigation or even within a puzzle.",
+      "subsub9": "Onboarding",
+      "text9": "Here the player is shown hints that the game can only be played in certain areas. For this purpose, permission to use the GPS sensor and camera, which are essential for using the application, is requested.",
+      "subsub10": "Navigation",
+      "text10": "A navigation system is integrated into the game, which guides the player to a terrain where the game can be played without danger. During the development of the concept it became clear that it is important to protect the players and not to offer them the possibility to play in dangerous places.",
+      "subsub11": "Menu",
+      "text11": "As soon as the user has reached a safe terrain, all available puzzles are displayed in the menu window. These are distinguished in the display in: unlocked not yet played, unlocked and played or not yet unlocked. By clicking on the desired puzzle and then 'Start game' the player is led directly into the puzzle.",
+      "subsub12": "In-Game",
+      "text12": "Basically, the puzzles are constructed in such a way that the Augmented Reality technology displays objects in the environment that help to solve the puzzle. The user has the possibility to combine different objects and create a new one or to use an object directly as a solution for the puzzle. If the user has no idea how to solve the puzzle, the figure from the onboarding appears as a support by clicking to the question mark right."
+    },
+    "contact": {
+      "title": "Contact",
+    "text1": "You like what you see?",
+    "text2": "Then let's talk and create digital projects together",
+    "btnMail": "Send carrier pigeon",
+    "btnChat": "Have a chat"
+    }
+  }
+}

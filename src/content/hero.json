@@ -1,0 +1,17 @@
+{
+  "Deutsch": {
+    "title": "ich bin Anne!",
+    "d2": "Tagsüber ☀️ im Einsatz für den Nutzer und seine Bedürfnisse in Form von strategischer Konzeption und smartem Design und am Abend 🌙 vertieft im Implementieren von neuen Features für Kunden und eigenen Projekten",
+    "d7": "Als UX/UI Designerin entwickle ich digitale Produkte, die das Leben der Menschen verbessern.",
+    "d3": "Nebenbei experimentiere ich mit React.js und erkunde die Welt mit meinem Radl.",
+    "d4": "Aktuell bin ich auf der Suche nach meinem ersten Vollzeit-Abenteuer.",
+    "btn": "Lass uns reden"
+  },
+  "English": {
+    "title": "I'm Anne!",
+    "d2": "As a UX/UI designer, I create digital products that improve people's lives.",
+    "d3": "On the side I experiment with React.js and explore the world with my bike.",
+    "d4": "Currently, I am looking for my first full-time adventure.",
+    "btn": "Let's talk"
+  }
+}

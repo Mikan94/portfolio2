@@ -1,0 +1,86 @@
+{
+  "Deutsch": {
+    "title": "test deutsch",
+    "intro": {
+      "text1": "Ich bin eine kreative Lösungssucherin und wohne aktuell in der Stadt Heinsberg. Mein Fokus liegt darauf, eine intelligente Produktnutzung für Menschen zu schaffen.",
+      "text2": "Aktuell habe ich meinen Bachelorstudium in Mensch-Technik-Interaktion erfolgreich abgeschlossen.",
+      "text3": "Mit 6 Jahren Berufserfahrung in Wirtschaft und Design als Berufsanfängerin/ Werkstudentin suche ich nun mein erstes Vollzeit-Abenteuer."
+    },
+    "thinking": {
+      "title": "👩‍💻 Wie ich über UX/UI Design denke",
+      "text1": "Alles begann damit, dass ich mehr und mehr ineffiziente Prozesse entdeckte, die ein smartes Update benötigten",
+      "text3": "UX/ UI Design ist: wie Architektur nur für digitale Produkte",
+      "text2": "UX Design ist: komplexe Sachverhalte durch Design vereinfachen und mit Geschäftssinn kombinieren",
+      "text4": "Als digitale Architektin bin ich für den Wohlfühl Faktor in digitalen Produkten verantwortlich"
+    },
+    "experience": {
+      "title": "👷🏼‍♀️ Was ich bisher gemacht habe",
+      "year1": "1 Jahr (2020 - 2021)",
+      "year2": "2,5 Jahre (2017 - 2020)",
+      "year3": "3 Jahre (2013 - 2016)",
+      "job1": "// Productdesignerin",
+      "job2": "// Kaufmännische Ausbildung"
+    },
+    "knowledge": {
+      "title": "👩‍🏫 Wo ich mein Wissen her habe",
+      "subject": "// Mensch-Technik-Interaktion",
+      "degree": "// Ohne Abschluss"
+    },
+    "outside": {
+      "title": "🎁 Was ich außerhalb der Arbeit mache",
+      "text1": "Wenn es jetzt draußen sonnig ist, bin ich höchstwahrscheinlich gerade auf einem Abenteuer mit meinem Rennrad - um so viele",
+      "text1link": "Sonnenstunden/Kilometer ",
+      "text11": "im Jahr wie möglich zu genießen 🚴‍♀️💨",
+      "text2": "Ich verliere mich in",
+      "text2link": "Musik",
+      "text22": ", die Komposition und die Technik dahinter 🎧 und ein täglicher 5-Sekunden-Tanz darf auch nicht fehlen",
+      "text3": "Derzeit beschäftige ich mich mit der Frontend-Entwicklung (react.js), um endlich einige Ideen umsetzen zu können",
+      "text4": "Wie du bereits schon gelesen hast - lasse ich mich von smarter Architektur und Tiny Houses inspirieren",
+      "subtitle": "Bonus und lustigste Fakten über mich 🥳",
+      "text5": "Ich kann nicht wirklich riechen und schmecken, daher ist Kochen mit mir recht spaßig",
+      "text6": "Ich bin so klein, dass ich unter einem Volleyballnetz durchlaufen kann, ohne mich zu bücken"
+    }
+  },
+  "English": {
+    "title": "test english",
+    "intro": {
+      "text1": "I’m a creative solution seeker based in Heinsberg. My focus goes to creating a smart product usage for people.",
+      "text2": "Currently I got my sciene-degree in human-machine-interaction or more simply said psychology-computer sciene-design.",
+      "text3": "With a 6 years of work experience in business and design as rookie as Trainee/ working student, I’m now looking for my first full-time adventure."
+    },
+    "thinking": {
+      "title": "👩‍💻 How I think about UX/UI design",
+      "text3": "UX/ UI Design is: like architecture for digital products",
+      "text2": "UX design is: simplifying complex issues through design and combining it with business sense",
+      "text1": "And it all started when I discovered more and more inefficient processes that needed a smart update to be more resource saving",
+      "text4": "As a digital architect I am responsible for the feel-good factor in digital products"
+    },
+    "experience": {
+      "title": "👷🏼‍♀️ What I've done before",
+      "year1": "1 year (2020 - 2021)",
+      "year2": "2,5 years (2017 - 2020)",
+      "year3": "3 years (2013 - 2016)",
+      "job1": "// Product designer",
+      "job2": "// Apprenticeship businesswomen"
+    },
+    "knowledge": {
+      "title": "👩‍🏫 Where I got my knowledge",
+      "subject": "// Human-machine-interaction",
+      "degree": "// Without degree"
+    },
+    "outside": {
+      "title": "🎁 What I do outside of work",
+      "text1": "If it's sunny outside, I'm most likely on an adventure with my bike right now - capturing and pedaling as many",
+      "text1link": "sunhours/ kilometers for",
+      "text11": "a year 🚴‍♀️💨",
+      "text2": "I lose my mind to",
+      "text2link": "music",
+      "text22": ", the composition and the technology behind it 🎧 and a 5-second dance may also not be missing",
+      "text3": "Currently learning frontend dev (react.js) to be finally able to realize some ideas of mine",
+      "text4": "Like you have read before - I'm also inspired by the smart architecture of tiny houses",
+      "subtitle": "Bonus and funniest facts about me 🥳",
+      "text5": "I can't really smell and taste, so cooking with me is a lot of fun",
+      "text6": "I am so small that I can walk under a volleyball net without bending down"
+    }
+  }
+}

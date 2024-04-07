@@ -1,0 +1,609 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Rubik", sans-serif;
+}
+
+body {
+  background-image: url("./assets/bg2.png");
+  background-color: #2c333b;
+  background-size: contain;
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+}
+
+.spacing {
+  margin-top: 20rem;
+}
+
+.card-spacing {
+  margin-top: 4rem;
+}
+
+.color-y {
+  color: #FFBD53;
+}
+
+.color-g {
+  color: #2c333b;
+}
+
+.border-y {
+  border-color: #FFBD53;
+  height: 30px;
+}
+
+.color-bg {
+  background-color: #2c333b;
+}
+
+.color-bg-y {
+  background-color: #FFBD53;
+}
+
+.hero-headline {
+  -webkit-text-stroke: 1px #FFBD53;
+  -webkit-text-fill-color: transparent;
+  font-family: "Rubik Mono One", sans-serif;
+  letter-spacing: 8px;
+  word-spacing: -16px;
+  font-size: 80px;
+}
+
+h1 {
+  -webkit-text-stroke: 1px white;
+  -webkit-text-fill-color: transparent;
+  font-family: "Rubik Mono One", sans-serif;
+  color: #2c333b;
+  letter-spacing: 8px;
+  word-spacing: -16px;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 56px;
+  letter-spacing: 2px;
+  color: white;
+}
+
+h3 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing: 2px;
+  color: white;
+}
+
+h4 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  color: white;
+}
+
+h5 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+p {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+}
+
+li {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+}
+
+.logo {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  letter-spacing: 3px;
+  color: white;
+}
+
+.logo:hover {
+  color: #FFBD53;
+}
+
+.shadow {
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+  height: 100vh;
+  width: 100vw;
+}
+
+.hero-text {
+  font-family: "Rubik", sans-serif;
+  font-weight: 800;
+  font-size: 200px;
+}
+
+.hero-subtext {
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.btn {
+  height: 48px;
+  width: 48px;
+  padding: 12px;
+  border-radius: 5px;
+  box-shadow: 0 15px 20px -10px rgba(0, 0, 0, 0.3);
+}
+
+.circle {
+  height: 64px;
+  width: 64px;
+}
+
+.btn-4:focus {
+  outline: none;
+}
+
+.bg-primary {
+  background-color: rgba(44, 51, 59, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
+}
+
+.card-size {
+  width: 1200px;
+  height: 800px;
+}
+
+.bg-nazzle {
+  background: rgb(250, 161, 60);
+  background: linear-gradient(
+    45deg,
+    rgba(250, 161, 60, 1) 0%,
+    rgba(252, 189, 119, 1) 100%
+  );
+}
+.bg-storyline {
+  background: rgb(252, 198, 18);
+  background: linear-gradient(
+    45deg,
+    rgba(252, 198, 18, 1) 0%,
+    rgba(253, 215, 89, 1) 100%
+  );
+}
+
+.bg-smartdress {
+  background: rgb(255, 111, 97);
+  background: linear-gradient(
+    45deg,
+    rgba(255, 111, 97, 1) 0%,
+    rgba(255, 140, 129, 1) 100%
+  );
+}
+
+.bg-hel {
+  background: rgb(40, 203, 204);
+  background: linear-gradient(
+    45deg,
+    rgba(40, 203, 204, 1) 0%,
+    rgba(255, 24, 191, 1) 50%,
+    rgba(255, 222, 50, 1) 100%
+  );
+}
+
+.line-vert {
+  display: flex;
+}
+.line-vert:after {
+  content: "";
+  display: table;
+  height: 100px;
+  width: 1px;
+  background-color: white;
+  margin-left: 12px;
+}
+
+.link {
+  font-family: "Rubik", sans-serif;
+  cursor: pointer;
+  position: relative;
+  white-space: nowrap;
+  color: white;
+}
+
+.link::before,
+.link::after {
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+  top: 100%;
+  left: 0;
+  pointer-events: none;
+}
+
+.link::before {
+  content: "";
+  /* show by default */
+}
+
+.active {
+  border-bottom: 1px solid #FFBD53;
+  color: #FFBD53;
+}
+
+.nav-link {
+}
+
+.nav-link::before {
+  transform-origin: 100% 50%;
+  transform: scale3d(0, 1, 1);
+  transition: transform 0.3s;
+}
+
+.nav-link:hover::before {
+  transform-origin: 0% 50%;
+  transform: scale3d(1, 1, 1);
+}
+
+.scroll-ani {
+  font-size: 16px;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  transform-origin: bottom;
+}
+
+.bounce {
+  animation-name: bounce;
+  animation-timing-function: ease;
+}
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.btn-2 {
+  background: #FFBD53;
+  color: #2c333b;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 22px 30px 18px 30px;
+  border: 0;
+  transition: all 0.5s;
+  border-radius: 5px;
+  width: auto;
+  position: relative;
+  min-width: 260px;
+}
+.btn-2::after {
+  content: url(./assets/linkedin_grey.svg);
+  font-size: 16px;
+  position: absolute;
+  left: 80%;
+  top: 54%;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transform: translate(-30%, -50%);
+}
+.btn-2:hover {
+  transition: all 0.5s;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px rgba(34, 32, 32, 0.8);
+  padding: 22px 50px 18px 30px;
+  color: #2c333b;
+}
+.btn-2:hover::after {
+  opacity: 1;
+  transition: all 0.5s;
+  color: #2c333b;
+}
+
+.btn-2:focus {
+  outline: none;
+}
+
+.btn-2:focus::after {
+  outline: none;
+}
+
+.btn-3 {
+  background: #FFBD53;
+  color: #2c333b;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 22px 30px 18px 30px;
+  border: 0;
+  transition: all 0.5s;
+  border-radius: 5px;
+  width: auto;
+  position: relative;
+  min-width: 260px;
+}
+.btn-3::after {
+  content: url(./assets/mail_grey.svg);
+  font-size: 16px;
+  position: absolute;
+  left: 80%;
+  top: 55%;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transform: translate(-15%, -50%);
+}
+.btn-3:hover {
+  transition: all 0.5s;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px rgba(34, 32, 32, 0.8);
+  padding: 22px 50px 18px 30px;
+  color: #2c333b;
+}
+.btn-3:hover::after {
+  opacity: 1;
+  transition: all 0.5s;
+  color: #2c333b;
+}
+
+.btn-3:focus {
+  outline: none;
+}
+
+.btn-3:focus::after {
+  outline: none;
+}
+
+.btn-4 {
+  background: white;
+  color: #2c333b;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 22px 30px 18px 30px;
+  border: 0;
+  transition: all 0.2s;
+  border-radius: 5px;
+  position: relative;
+  width: 220px;
+}
+.btn-4::after {
+  content: url(./assets/arrow.svg);
+  font-size: 16px;
+  position: absolute;
+  left: 80%;
+  top: 56%;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transform: translate(-15%, -50%);
+}
+.btn-4:hover {
+  transition: all 0.5s ease-in-out;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px rgba(34, 32, 32, 0.2);
+  padding: 22px 50px 18px 30px;
+  color: #2c333b;
+}
+.btn-4:hover::after {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+  color: #2c333b;
+}
+
+.btn-4:focus {
+  outline: none;
+}
+
+.btn-4:focus::after {
+  outline: none;
+}
+
+.btn-4-y {
+  background: #ff9898;
+  color: #2c333b;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 22px 30px 18px 30px;
+  border: 0;
+  transition: all 0.2s;
+  border-radius: 5px;
+  position: relative;
+  width: 260px;
+}
+.btn-4-y::after {
+  content: url(./assets/arrow.svg);
+  font-size: 16px;
+  position: absolute;
+  left: 80%;
+  top: 56%;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transform: translate(-15%, -50%);
+}
+.btn-4-y:hover {
+  transition: all 0.5s ease-in-out;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px rgba(34, 32, 32, 0.2);
+  padding: 22px 50px 18px 30px;
+  color: #2c333b;
+}
+.btn-4-y:hover::after {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+  color: #2c333b;
+}
+
+.btn-4-y:focus {
+  outline: none;
+}
+
+.btn-4-y:focus::after {
+  outline: none;
+}
+
+.card-grow {
+  transition: all 0.5s ease-in-out;
+}
+
+.card-grow:hover {
+  transform: scale(1.02);
+}
+
+#i-mail {
+  stroke: white;
+}
+
+#i-mail:hover {
+  content: url(./assets/mail_yellow.svg);
+}
+
+#i-linked {
+  stroke: white;
+}
+
+#i-linked:hover {
+  content: url(./assets/linkedin_yellow.svg);
+}
+
+.img-change {
+  content: url(./assets/about2.png);
+  transition: all 0.5s ease-in-out;
+  border-radius: 5px;
+}
+
+.img-change:hover {
+  content: url(./assets/bike.png);
+  transform: scale(1.02);
+  transition: all 0.5s ease-in-out;
+}
+
+.link-ex {
+  padding: 0px 0 8px;
+  position: relative;
+  cursor: pointer;
+}
+
+.link-ex::before {
+  content: "";
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  height: 2px;
+  transform: skew(-50deg) translateX(1%);
+  background: #ffd84b;
+  z-index: -1;
+  transform-origin: 0% 100%;
+  transform: scale3d(1, 1, 1);
+  transition: transform 0.3s;
+}
+
+.link-ex:hover::before {
+  background: #ffd84b;
+  transform-origin: 100% 0%;
+  transform: scale3d(0, 1, 1);
+}
+
+.link-ex:hover {
+  color: #ffd84b;
+}
+
+.hero-bg {
+  content: url(./assets/blob.svg);
+}
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  h4 {
+    font-size: 18px;
+  }
+
+  .spacing {
+    margin-top: 10rem;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  h1 {
+    font-size: 56px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  .spacing {
+    margin-top: 16rem;
+  }
+}
+
+@media only screen and (min-width: 1180px) {
+  h1 {
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
+    font-family: "Rubik Mono One", sans-serif;
+    color: #2c333b;
+    letter-spacing: 8px;
+    word-spacing: -16px;
+    font-size: 80px;
+  }
+
+  h2 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: white;
+  }
+
+  h3 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    letter-spacing: 2px;
+    color: white;
+  }
+}
